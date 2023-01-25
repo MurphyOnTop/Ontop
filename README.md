@@ -5,7 +5,7 @@
 
 <br>
   <p style="text-align: center;"align="center">=======================How to reach me======================</p>
-  <p style="text-align: center;"align="center"><a href="https://omerta.la/profile/2231-hideaki"><code><img alt="Hideaki's Omerta" height="20" src="https://i.imgur.com/JlKutDF.png"></code></a> <a href="https://t.me/MurphyOnTop"><code><img alt="Hideaki's Telegram" height="20" src="https://telegram.org/img/website_icon.svg"></code></a><a href="https://cracked.io/MurphyOnTop?referrer=1513043"><code><img alt="Hideaki's Cracked.io" height="20" src="https://cracked.io/images/32x32.png"></code></a></p>
+  <p style="text-align: center;"align="center">Sihazz#1337</p>
   <p style="text-align: center;"align="center">============================================================</p>
 <details style='text-align: center;' align='center'>
   <summary> Working on/In progress </summary>
