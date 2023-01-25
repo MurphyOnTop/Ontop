@@ -15,7 +15,7 @@
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> </p>
   <p style="text-align: center;"align="center">A little bit: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code></p>
   <p style="text-align: center;" align='center'> - Tools: </p>  
-  <p style="text-align: center;"align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"></code></p>
+  <p style="text-align: center;"align="center"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio/visual-studio.png"></code></p>
   
   
   <p style="text-align: center;"align="center">============================================================</p>
@@ -35,16 +35,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <h3 align="center">Visitors<br><img src="https://hgithub.glitch.me/count.svg" /></h3>
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
-<details style='text-align: center;' align='center'>
-  <summary> Some good projects </summary>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/whoshuu/cpr">CPR</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/ikalnytskyi/termcolor">Termcolor</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-studio">OBS Studio</a></p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/obsproject/obs-browser">OBS Browser</a></p>
-  =====
-  <p style="text-align: center;"align="center">=> Not sure :) <=</p>
-  <p style="text-align: center;"align="center">=> <a href="https://github.com/ithewei/libhv">libhv</a></p>
-  =====
-  <p style="text-align: center;"align="center">============================================================</p>
-</details>
+
+<p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=sbnh29wynv64zny3f7a6t7feo&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
+</p>
+
 <div style="border-top: 3px solid #bbb">
