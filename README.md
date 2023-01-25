@@ -36,8 +36,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <p style="text-align: center;"align="center">============================================================</p>
 </details>
 
-<p align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=sbnh29wynv64zny3f7a6t7feo&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false"/>
-</p>
-
 <div style="border-top: 3px solid #bbb">
